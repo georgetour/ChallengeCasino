@@ -1,2 +1,2 @@
 # ChallengeCasino
-An ASP.NET web forms slot machine game using C#.
+An ASP.NET  slot machine game .
